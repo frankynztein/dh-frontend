@@ -296,8 +296,6 @@ form .submit {
   font-weight: 500;
 }
 
-
-
 /* DESKTOP 1440px */
 @media (min-width: 1200px) {
   .container {
@@ -305,13 +303,6 @@ form .submit {
     max-width: 1140px;
     margin: 0 auto;
   }
-
-  /* .cont-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  } */
-
 
   header nav {
     display: block;
@@ -467,8 +458,4 @@ form .submit {
   .footer-logo {
     margin-bottom: 50px;
   }
-
-
-
-
 }
